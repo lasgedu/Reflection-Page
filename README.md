@@ -9,7 +9,7 @@ A simple, frontend page where students can reflect on their learning experience.
 ### Languages Supported:
 - English
 - Français
-- Ikinyarwanda
+- kinyarwanda
 
 ### How It Works:
 - Clicking a language button updates all text on the page
